@@ -4,13 +4,13 @@
     <Item type="CHandlingData">
       <handlingName>amggt16</handlingName>
       <fMass value="1450.000000" />
-      <fInitialDragCoeff value="9.100000" />
+      <fInitialDragCoeff value="8.100000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0" y="0.100000" z="-0.2000" />
       <vecInertiaMultiplier x="1.200000" y="1.300000" z="1.800000" />
       <fDriveBiasFront value="0.300000" />
       <nInitialDriveGears value="6" />
-      <fInitialDriveForce value="0.615000" />
+      <fInitialDriveForce value="0.650000" />
       <fDriveInertia value="1.000000" />
       <fClutchChangeRateScaleUpShift value="5.000000" />
       <fClutchChangeRateScaleDownShift value="4.000000" />
